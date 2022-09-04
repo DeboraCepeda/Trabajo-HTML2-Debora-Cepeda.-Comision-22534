@@ -1,0 +1,86 @@
+*{
+    background-color: darkolivegreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color:greenyellow;
+    background-color: black;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+a{
+    font-size: 1rem;
+    text-decoration: none;
+    color:blanchedalmond;
+    border-style: solid;
+    border-radius: 3rem;
+    
+    
+    
+}
+
+header{
+    
+    background-color: black;
+    color: red;
+    
+}
+
+footer{
+    color: azure;
+    background-color: black;
+
+}
+.loco{
+    color: azure;
+    background-color: black;
+}
+
+h2{
+    color: blueviolet;
+    background-color: yellow;
+    text-align: justify;
+    text-decoration: underline;
+    
+}
+form{
+    color: yellow;
+}
+.boton{ 
+    border-color: yellowgreen;
+    
+    color: yellow;
+}
+.Estudios{
+    color: yellow;
+}
+
+p{
+    
+    color: yellow;
+
+    
+}
+
+
+#listas,section{
+    color: yellow;
+
+}
+h4{
+    color: blue;
+}
+
+
+
+
+    
+
+
+
+
+
+
